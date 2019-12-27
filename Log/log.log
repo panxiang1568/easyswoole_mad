@@ -1,0 +1,586 @@
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:24][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:38][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:39][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:43:42][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:44:12][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-10-24 17:44:13][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-10-30 14:49:36][DEBUG][ERROR] : [Uncaught Swoole\Exception: failed to listen server port[0.0.0.0:9501], Error: Address already in use[48] in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/ServerManager.php:57
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/ServerManager.php(57): Swoole\Server->__construct('0.0.0.0', 9501, 2, 1)
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Core.php(115): EasySwoole\EasySwoole\ServerManager->createSwooleServer(9501, 2, '0.0.0.0', Array, 2, 1)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Command/DefaultCommand/Start.php(42): EasySwoole\EasySwoole\Core->createServer()
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Command/CommandContainer.php(46): EasySwoole\EasySwoole\Command\DefaultCommand\Start->exec(Array)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Command/CommandRunner.php(50): EasySwoole\EasySwoole\Command\Comman at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/ServerManager.php line:57]
+[2019-11-05 14:34:48][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-11-05 14:34:48][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-11-05 14:34:48][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-11-05 14:34:48][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-11-05 14:34:48][DEBUG][ERROR] : [Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-05 14:35:18][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-05 18:18:20][DEBUG][ERROR] : [Cannot register two routes matching "/msg/post" for method "POST" at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/http/src/Dispatcher.php line:74]
+[2019-11-05 18:21:59][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-11-05 18:21:59][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-11-05 18:21:59][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-11-05 18:21:59][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-11-05 18:21:59][DEBUG][ERROR] : [Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-05 18:22:00][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-11-05 18:22:00][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-11-05 18:22:00][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-11-05 18:22:00][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-11-05 18:22:00][DEBUG][ERROR] : [Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-05 19:18:49][DEBUG][NOTICE] : [Undefined index: HTTPS at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:296]
+[2019-11-05 19:18:49][DEBUG][NOTICE] : [Undefined index: REQUEST_SCHEME at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:298]
+[2019-11-05 19:18:49][DEBUG][NOTICE] : [Undefined index: SERVER_PORT at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:300]
+[2019-11-05 19:18:49][DEBUG][NOTICE] : [Undefined index: HTTP_X_FORWARDED_PROTO at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/tools/Http.php line:302]
+[2019-11-06 10:13:40][DEBUG][ERROR] : [Return value of App\logic\core\TaskRequest::getResponseEntity() must be an instance of App\entity\IEntity, null returned at file:/Users/panxiang/Documents/mad_eastswoole/App/logic/core/TaskRequest.php line:215]
+[2019-11-06 10:14:00][DEBUG][ERROR] : [Return value of App\logic\core\TaskRequest::getResponseEntity() must be an instance of App\entity\IEntity, null returned at file:/Users/panxiang/Documents/mad_eastswoole/App/logic/core/TaskRequest.php line:215]
+[2019-11-06 17:45:27][DEBUG][ERROR] : [Too few arguments to function App\controller\Index::test(), 0 passed in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/http/src/AbstractInterface/Controller.php on line 98 and exactly 1 expected at file:/Users/panxiang/Documents/mad_eastswoole/App/controller/Index.php line:99]
+[2019-11-08 14:28:23][DEBUG][ERROR] : [Return value of App\entity\EventAndStatusRequestEntity::getIp() must be of the type string, null returned at file:/Users/panxiang/Documents/mad_eastswoole/App/entity/EventAndStatusRequestEntity.php line:153]
+[2019-11-20 15:49:34][DEBUG][ERROR] : [Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-20 15:50:04][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-20 15:53:29][DEBUG][ERROR] : [Return value of App\entity\AppRequestEntity::getLogTaskIds() must be of the type array or null, string returned at file:/Users/panxiang/Documents/mad_eastswoole/App/entity/AppRequestEntity.php line:803]
+[2019-11-20 15:56:30][DEBUG][ERROR] : [Return value of App\entity\AppRequestEntity::getLogTaskIds() must be of the type array or null, string returned at file:/Users/panxiang/Documents/mad_eastswoole/App/entity/AppRequestEntity.php line:803]
+[2019-11-20 16:12:38][DEBUG][ERROR] : [Return value of App\entity\AppRequestEntity::getLogTaskIds() must be of the type array or null, string returned at file:/Users/panxiang/Documents/mad_eastswoole/App/entity/AppRequestEntity.php line:803]
+[2019-11-20 16:13:28][DEBUG][ERROR] : [Return value of App\entity\AppRequestEntity::getLogTaskIds() must be of the type array or null, string returned at file:/Users/panxiang/Documents/mad_eastswoole/App/entity/AppRequestEntity.php line:803]
+[2019-11-21 12:41:54][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 12:56:12][DEBUG][ERROR] : [Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 12:56:39][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 13:51:13][DEBUG][ERROR] : [Return value of App\model\TaskRelate::get() must be of the type array, null returned at file:/Users/panxiang/Documents/mad_eastswoole/App/model/TaskRelate.php line:30]
+[2019-11-21 13:54:14][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 13:55:42][DEBUG][ERROR] : [Return value of App\model\TaskRelate::get() must be of the type array, null returned at file:/Users/panxiang/Documents/mad_eastswoole/App/model/TaskRelate.php line:30]
+[2019-11-21 14:00:18][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:08:58][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:165]
+[2019-11-21 14:10:42][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-11-21 14:11:33][DEBUG][WARNING] : [Illegal offset type at file:/Users/panxiang/Documents/mad_eastswoole/App/utils/Map.php line:163]
+[2019-12-13 11:32:07][DEBUG][ERROR] : [The connection timed out after 3 sec while awaiting incoming data at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-13 11:35:40][DEBUG][ERROR] : [ACCESS_REFUSED - Login was refused using authentication mechanism AMQPLAIN. For details see the broker logfile.(0, 0) at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php line:741]
+[2019-12-13 14:20:56][DEBUG][ERROR] : [NOT_FOUND - no queue 'hello' in vhost '/' at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AMQPChannel.php line:211]
+[2019-12-14 12:13:19][DEBUG][ERROR] : [Broken pipe at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php line:257]
+[2019-12-16 16:10:28][DEBUG][ERROR] : [The connection timed out after 3 sec while awaiting incoming data at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-16 17:02:40][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-12-16 17:04:27][DEBUG][ERROR] : [Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php line:35]
+[2019-12-16 17:49:17][DEBUG][ERROR] : [Class 'EasySwoole\Task\Task' not found at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php line:10]
+[2019-12-16 17:50:26][DEBUG][ERROR] : [Class 'EasySwoole\Task\Task' not found at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php line:10]
+[2019-12-16 17:50:36][DEBUG][ERROR] : [Class 'EasySwoole\Task\Task' not found at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php line:10]
+[2019-12-16 17:51:35][DEBUG][ERROR] : [Class 'EasySwoole\Task\Task' not found at file:/Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php line:10]
+[2019-12-16 17:52:41][DEBUG][ERROR] : [Cannot access self:: when no class scope is active at file:/Users/panxiang/Documents/mad_eastswoole/vendor/jeremeamia/superclosure/src/SerializableClosure.php(210) : eval()'d code line:2]
+[2019-12-16 17:57:24][DEBUG][ERROR] : [Cannot access self:: when no class scope is active at file:/Users/panxiang/Documents/mad_eastswoole/vendor/jeremeamia/superclosure/src/SerializableClosure.php(210) : eval()'d code line:2]
+[2019-12-16 18:02:03][DEBUG][ERROR] : [Cannot access self:: when no class scope is active at file:/Users/panxiang/Documents/mad_eastswoole/vendor/jeremeamia/superclosure/src/SerializableClosure.php(210) : eval()'d code line:2]
+[2019-12-17 15:02:46][DEBUG][ERROR] : [Too few arguments to function ryan\mq\RabbitMQPool::__construct(), 1 passed in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/PoolManager.php on line 114 and exactly 2 expected at file:/Users/panxiang/Documents/mad_eastswoole/extend/ryan/mq/RabbitMQPool.php line:22]
+[2019-12-17 15:07:20][DEBUG][ERROR] : [Return value of App\controller\Index::getRabbitMq() must be an instance of ryan\mq\RabbitMQObject or null, instance of PhpAmqpLib\Channel\AMQPChannel returned at file:/Users/panxiang/Documents/mad_eastswoole/App/model/CommonTools.php line:38]
+[2019-12-17 15:11:41][DEBUG][ERROR] : [Channel connection is closed. at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php line:244]
+[2019-12-17 15:20:47][DEBUG][ERROR] : [Return value of App\controller\Index::getRabbitMq() must be an instance of ryan\mq\RabbitMQObject or null, instance of PhpAmqpLib\Channel\AMQPChannel returned at file:/Users/panxiang/Documents/mad_eastswoole/App/model/CommonTools.php line:39]
+[2019-12-17 15:23:52][DEBUG][ERROR] : [Broken pipe or closed connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/IO/StreamIO.php line:228]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:47:38][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 15:59:24][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:31:09][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:32:26][DEBUG][ERROR] : [Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php line:619]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:33:19][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:34:14][DEBUG][ERROR] : [Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php line:619]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:43:11][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 17:53:12][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:19:40][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:25:27][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]
+[2019-12-17 18:31:20][DEBUG][ERROR] : [Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection at file:/Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php line:141]

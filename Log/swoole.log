@@ -1,0 +1,1144 @@
+hot reload ready at 2019-11-20 16:16:13 use : 0.003 s total: 68 files
+server hot reload start : use timer tick comparison
+string(0) ""
+string(0) ""
+string(0) ""
+string(0) ""
+[2019-11-20 16:16:19 *13179.2]	WARNING	swAio_handler_write_file(:367): open(./Log/task_request.log, 521) failed, Error: No such file or directory[2]
+severReload at 2019-11-20 16:22:10 use : 0.005 s total: 68 files
+[2019-11-20 16:22:10 $13168.0]	INFO	Server is reloading all workers now
+[2019-11-20 16:22:13 *13179.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+severReload at 2019-11-20 16:25:04 use : 0.003 s total: 68 files
+[2019-11-20 16:25:04 $13168.0]	INFO	Server is reloading all workers now
+string(0) ""
+string(0) ""
+string(0) ""
+string(0) ""
+[2019-11-20 16:25:07 *13287.2]	WARNING	swAio_handler_write_file(:367): open(./Log/task_request.log, 521) failed, Error: No such file or directory[2]
+severReload at 2019-11-20 16:43:37 use : 0.004 s total: 68 files
+[2019-11-20 16:43:37 $13168.0]	INFO	Server is reloading all workers now
+[2019-11-20 16:43:40 *13287.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+severReload at 2019-11-21 11:35:57 use : 0.015 s total: 68 files
+[2019-11-21 11:35:57 $13168.0]	INFO	Server is reloading all workers now
+[2019-11-21 11:39:57 #13167.8]	INFO	Server is shutdown now
+[2019-11-21 11:53:45 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 11:53:48 *16214.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 11:53:51 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:00:28 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:01:33 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:01:36 *17875.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 12:01:41 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:01:44 *17895.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 12:02:04 $16211.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:41:54 *17954.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-11-21 12:41:54 $16211.0]	WARNING	swManager_check_exit_status: worker#2[pid=17954] abnormal exit, status=255, signal=0
+[2019-11-21 12:56:39 *18081.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-11-21 12:56:39 $18078.0]	WARNING	swManager_check_exit_status: worker#2[pid=18081] abnormal exit, status=255, signal=0
+[2019-11-21 12:58:49 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 12:58:52 *18101.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 13:54:14 *18124.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-11-21 13:54:14 $18078.0]	WARNING	swManager_check_exit_status: worker#2[pid=18124] abnormal exit, status=255, signal=0
+[2019-11-21 13:55:50 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 13:55:53 *18288.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 13:57:16 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 13:57:19 *18320.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:00:18 *18349.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-11-21 14:00:18 $18078.0]	WARNING	swManager_check_exit_status: worker#2[pid=18349] abnormal exit, status=255, signal=0
+[2019-11-21 14:08:57 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:08:58 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:09:00 *18368.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:09:07 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:10:42 *18453.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-11-21 14:10:42 $18078.0]	WARNING	swManager_check_exit_status: worker#2[pid=18453] abnormal exit, status=255, signal=0
+[2019-11-21 14:11:33 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:11:39 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:11:44 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:11:53 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:12:44 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:12:47 *18550.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:12:48 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:13:19 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:13:39 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:13:42 *18613.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:14:57 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:15:04 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:15:31 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:17:21 $18078.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:17:24 *18695.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:18:03 $18742.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:18:19 $18742.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:18:22 *18769.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 14:20:33 $18742.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:21:25 $18742.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:28:56 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 14:28:59 *18877.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-11-21 15:54:31 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 15:55:12 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 15:55:26 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 15:56:01 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 15:57:20 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-21 15:57:27 $18874.0]	INFO	Server is reloading all workers now
+[2019-11-22 19:52:02 #18873.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19199.6]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19197.7]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 $18874.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19198.5]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19195.2]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19192.1]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19193.4]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19196.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19194.3]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 $18874.0]	WARNING	swManager_check_exit_status: worker#8[pid=18883] abnormal exit, status=0, signal=1
+[2019-11-22 19:52:02 #18873.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19198.5]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19195.2]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19199.6]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19193.4]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19194.3]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19196.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 $18874.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19197.7]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 *19192.1]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-11-22 19:52:02 $18874.0]	WARNING	swManager_check_exit_status: worker#8[pid=24101] abnormal exit, status=0, signal=1
+[2019-11-22 19:52:55 #18873.8]	INFO	Server is shutdown now
+[2019-11-27 11:33:09 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:33:15 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:33:31 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:33:57 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:35:22 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:47:10 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:48:26 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 11:48:38 $15171.0]	INFO	Server is reloading all workers now
+[2019-11-27 12:01:37 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:10:21 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:12:04 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:12:54 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:12:54 *15821.2]	WARNING	swAio_handler_write_file(:367): open(/mnt/mad/log/statis_msg_date/statis_msg_day_20191127.log, 521) failed, Error: No such file or directory[2]
+[2019-11-27 14:21:53 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:23:12 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:23:20 *16442.2]	WARNING	swAio_handler_write_file(:367): open(/mnt/mad/log/statis_msg_date/statis_msg_day_20191127.log, 521) failed, Error: No such file or directory[2]
+[2019-11-27 14:25:00 *16442.2]	WARNING	swAio_handler_write_file(:367): open(/mnt/mad/log/statis_msg_date/statis_msg_day_20191127.log, 521) failed, Error: No such file or directory[2]
+[2019-11-27 14:26:46 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:27:11 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:32:42 $15551.0]	INFO	Server is reloading all workers now
+[2019-11-27 14:35:28 *17385.2]	WARNING	swAio_handler_write_file(:367): open(/mnt/mad/log/statis_msg_date/statis_msg_day_20191127.log, 521) failed, Error: No such file or directory[2]
+[2019-12-12 16:46:14 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-12 16:47:43 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-12 17:49:15 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-12 18:18:30 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-12 18:28:23 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-12 18:34:52 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 10:24:31 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 10:55:29 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:05:35 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:07:36 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:16:54 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:32:00 $12194.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:40:59 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:45:32 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 11:46:41 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:13:31 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:18:59 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:20:52 $6947.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:21:21 $36916.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:23:52 $37152.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:23:58 $37152.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=37155] exit timeout, forced kill
+[2019-12-13 14:23:58 $37152.0]	WARNING	swManager_check_exit_status: worker#2[pid=37155] abnormal exit, status=0, signal=9
+[2019-12-13 14:26:29 $37657.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:36:09 $38097.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:36:15 $38097.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=38106] exit timeout, forced kill
+[2019-12-13 14:36:15 $38097.0]	WARNING	swManager_check_exit_status: worker#2[pid=38106] abnormal exit, status=0, signal=9
+[2019-12-13 14:36:31 $38097.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:37:10 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:37:16 $39998.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=40002] exit timeout, forced kill
+[2019-12-13 14:37:16 $39998.0]	WARNING	swManager_check_exit_status: worker#2[pid=40002] abnormal exit, status=0, signal=9
+[2019-12-13 14:37:26 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:38:32 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:41:17 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:51:56 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 14:52:10 $39998.0]	INFO	Server is reloading all workers now
+[2019-12-13 15:43:00 $43949.0]	INFO	Server is reloading all workers now
+[2019-12-13 15:48:12 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 15:48:18 $53140.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=53144] exit timeout, forced kill
+[2019-12-13 15:48:18 $53140.0]	WARNING	swManager_check_exit_status: worker#2[pid=53144] abnormal exit, status=0, signal=9
+[2019-12-13 15:51:19 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:15:24 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:16:11 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:16:48 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:18:29 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:19:42 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:27:11 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:28:33 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 16:44:17 $53140.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:14:48 $69434.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:14:54 $69434.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=69438] exit timeout, forced kill
+[2019-12-13 17:14:54 $69434.0]	WARNING	swManager_check_exit_status: worker#2[pid=69438] abnormal exit, status=0, signal=9
+[2019-12-13 17:15:05 $69434.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:19:26 $69434.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:19:44 $69434.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:30:02 $69434.0]	INFO	Server is reloading all workers now
+[2019-12-13 17:33:30 $73255.0]	INFO	Server is reloading all workers now
+[2019-12-14 12:13:07 *82749.6]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 #82740.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82747.4]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 $82742.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82746.3]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82748.5]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82744.1]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82743.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82750.7]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 $82742.0]	WARNING	swManager_check_exit_status: worker#8[pid=82751] abnormal exit, status=0, signal=1
+[2019-12-14 12:13:07 #82740.8]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82749.6]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82746.3]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82748.5]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82747.4]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82750.7]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 $82742.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82744.1]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 *82743.0]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Hangup: 1
+[2019-12-14 12:13:07 $82742.0]	WARNING	swManager_check_exit_status: worker#8[pid=90271] abnormal exit, status=0, signal=1
+[2019-12-14 12:13:19 *82745.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 876 byte failed, because connection[fd=1] is closed
+[2019-12-14 12:13:19 *82745.2]	WARNING	swSignal_callback (ERRNO 707): Unable to find callback function for signal Broken pipe: 13
+[2019-12-14 12:13:22 #82740.8]	INFO	Server is shutdown now
+[2019-12-16 12:02:09 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 12:07:13 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 12:09:21 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 12:10:51 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 12:11:43 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 14:04:14 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 14:06:42 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 14:25:56 $98338.0]	INFO	Server is reloading all workers now
+[2019-12-16 15:59:17 $46970.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:19:01 $49201.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:19:07 $49201.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=49204] exit timeout, forced kill
+[2019-12-16 16:19:07 $49201.0]	WARNING	swManager_check_exit_status: worker#2[pid=49204] abnormal exit, status=0, signal=9
+[2019-12-16 16:25:50 $49201.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:26:30 $49201.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:40:42 $52136.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:40:48 $52136.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#3[pid=52140] exit timeout, forced kill
+[2019-12-16 16:40:48 $52136.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=52139] exit timeout, forced kill
+[2019-12-16 16:40:48 $52136.0]	WARNING	swManager_check_exit_status: worker#3[pid=52140] abnormal exit, status=0, signal=9
+[2019-12-16 16:40:48 $52136.0]	WARNING	swManager_check_exit_status: worker#2[pid=52139] abnormal exit, status=0, signal=9
+[2019-12-16 16:49:36 $54797.0]	INFO	Server is reloading all workers now
+[2019-12-16 16:49:42 $54797.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=54802] exit timeout, forced kill
+[2019-12-16 16:49:42 $54797.0]	WARNING	swManager_check_exit_status: worker#2[pid=54802] abnormal exit, status=0, signal=9
+[2019-12-16 16:49:53 $54797.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:01:38 $56509.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:01:44 $56509.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=56515] exit timeout, forced kill
+[2019-12-16 17:01:44 $56509.0]	WARNING	swManager_check_exit_status: worker#2[pid=56515] abnormal exit, status=0, signal=9
+[2019-12-16 17:02:40 *58709.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-12-16 17:02:40 $56509.0]	WARNING	swManager_check_exit_status: worker#4[pid=58709] abnormal exit, status=255, signal=0
+[2019-12-16 17:04:27 *59040.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught TypeError: Return value of ryan\cache\RedisPool::createObject() must be an instance of ryan\cache\RedisObject, null returned in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php:35
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(228): ryan\cache\RedisPool->createObject()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(187): EasySwoole\Component\Pool\AbstractPool->initObject()
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/component/src/Pool/AbstractPool.php(179): EasySwoole\Component\Pool\AbstractPool->keepMin(5)
+#3 {main}
+  thrown in /Users/panxiang/Documents/mad_eastswoole/extend/ryan/cache/RedisPool.php on line 35
+[2019-12-16 17:04:27 $59037.0]	WARNING	swManager_check_exit_status: worker#2[pid=59040] abnormal exit, status=255, signal=0
+[2019-12-16 17:19:07 $59825.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:19:10 *59828.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59831.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59830.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59826.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59829.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59827.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59832.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:19:10 *59833.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:17 $59825.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:25:20 *62493.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62486.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62487.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62492.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62491.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62490.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62489.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:25:20 *62488.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:45:29 $59825.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:46:39 $67439.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:46:45 $67439.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=67443] exit timeout, forced kill
+[2019-12-16 17:46:45 $67439.0]	WARNING	swManager_check_exit_status: worker#2[pid=67443] abnormal exit, status=0, signal=9
+[2019-12-16 17:49:17 *67672.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Task\Task' not found in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php on line 10
+[2019-12-16 17:49:17 $67439.0]	WARNING	swManager_check_exit_status: worker#3[pid=67672] abnormal exit, status=255, signal=0
+[2019-12-16 17:50:26 *68182.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Task\Task' not found in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php on line 10
+[2019-12-16 17:50:26 $67439.0]	WARNING	swManager_check_exit_status: worker#3[pid=68182] abnormal exit, status=255, signal=0
+[2019-12-16 17:50:36 *68426.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Task\Task' not found in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php on line 10
+[2019-12-16 17:50:36 $67439.0]	WARNING	swManager_check_exit_status: worker#3[pid=68426] abnormal exit, status=255, signal=0
+[2019-12-16 17:51:35 *68645.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Class 'EasySwoole\Task\Task' not found in /Users/panxiang/Documents/mad_eastswoole/vendor/easyswoole/easyswoole/src/Task/TaskManager.php on line 10
+[2019-12-16 17:51:35 $68642.0]	WARNING	swManager_check_exit_status: worker#2[pid=68645] abnormal exit, status=255, signal=0
+[2019-12-16 17:56:55 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:56:58 *70958.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 17:57:21 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 17:57:24 *71009.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:01:13 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:01:16 *71111.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:02:00 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:02:03 *71854.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:05:28 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:05:31 *72014.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:07:08 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:07:11 *72746.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:09:01 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:15:47 $70955.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:37:08 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:37:11 *75277.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75278.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75279.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75282.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75275.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75280.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75276.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:37:11 *75281.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:41:28 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:43:05 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:43:22 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:44:00 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:44:03 *80002.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:44:50 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:45:17 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:45:20 *80308.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:47:49 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:47:52 *80432.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:30 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:48:33 *80931.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80930.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80932.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80934.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80929.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80933.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80936.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:48:33 *80935.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:46 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:52:49 *81072.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81070.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81073.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81066.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81068.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81071.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81069.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:52:49 *81067.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:54:56 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:54:59 *81897.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:54:59 *81898.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-16 18:55:28 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-16 18:55:31 *82344.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 10:11:24 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-17 10:14:00 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-17 10:19:08 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-17 10:21:27 $75274.0]	INFO	Server is reloading all workers now
+[2019-12-17 10:21:33 $75274.0]	WARNING	swManager_kill_timeout_process (ERRNO 9012): [Manager] Worker#2[pid=31884] exit timeout, forced kill
+[2019-12-17 10:21:33 $75274.0]	WARNING	swManager_check_exit_status: worker#2[pid=31884] abnormal exit, status=0, signal=9
+[2019-12-17 10:40:36 $37739.0]	INFO	Server is reloading all workers now
+[2019-12-17 11:22:38 $45235.0]	INFO	Server is reloading all workers now
+[2019-12-17 14:56:13 $86508.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:00:09 $86508.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:02:05 $86508.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:04:54 $86508.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:07:15 $88793.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:07:48 $88793.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:07:51 *88852.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:09:08 $88793.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:09:11 *88977.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:09:54 $88793.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:10:42 $88793.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:10:59 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:11:39 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:11:42 *89664.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:12:01 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:12:04 *89786.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:14:15 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:14:18 *89883.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:18:08 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:20:41 $89599.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:23:49 $91752.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:23:52 *91755.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:24:09 $91752.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:24:12 *92176.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:25:26 $91752.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:26:25 $92551.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:39:15 $92551.0]	INFO	Server is reloading all workers now
+[2019-12-17 15:39:18 *92749.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 15:47:38 *96295.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96300.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96297.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96301.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96298.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96294.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 *96299.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#6[pid=96300] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#7[pid=96301] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#5[pid=96299] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#4[pid=96298] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#3[pid=96297] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#1[pid=96295] abnormal exit, status=255, signal=0
+[2019-12-17 15:47:38 $96292.0]	WARNING	swManager_check_exit_status: worker#0[pid=96294] abnormal exit, status=255, signal=0
+[2019-12-17 15:59:24 *96296.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 15:59:24 $96292.0]	WARNING	swManager_check_exit_status: worker#2[pid=96296] abnormal exit, status=255, signal=0
+[2019-12-17 16:06:29 $96292.0]	INFO	Server is reloading all workers now
+[2019-12-17 17:26:31 $15591.0]	INFO	Server is reloading all workers now
+[2019-12-17 17:26:34 *15595.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15594.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15592.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15593.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15599.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15597.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15596.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:34 *15598.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26527] is closed
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26521] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26514] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26550] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26517] is closed
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26516] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26520] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26535] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26523] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26522] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26528] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26529] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26524] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26525] is closed
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26518] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26543] is closed
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26513] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26530] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26519] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26533] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26515] is closed
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26526] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26536] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26567] is closed
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26532] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26554] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26575] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26540] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26537] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26562] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26549] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26544] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26534] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26545] is closed
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26541] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26531] is closed
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26564] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26553] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26570] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26572] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26578] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26542] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26552] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26592] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26551] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26539] is closed
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26566] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26538] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26548] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26559] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26624] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26597] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26615] is closed
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26558] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26593] is closed
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26556] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26598] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26583] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26546] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26591] is closed
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26590] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26584] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26581] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26547] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26634] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26557] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26596] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26609] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26555] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26602] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26565] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26599] is closed
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26585] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26586] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26580] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26573] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26563] is closed
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26607] is closed
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26633] is closed
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26594] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26589] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26576] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26588] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26561] is closed
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26639] is closed
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26621] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26560] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26606] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26569] is closed
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26623] is closed
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26571] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26568] does not exists
+[2019-12-17 17:26:45 *16093.0]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26631] is closed
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26577] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26579] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26616] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26637] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26628] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26574] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26610] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26632] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26587] is closed
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26636] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26582] does not exists
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26640] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26604] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26619] is closed
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26629] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26612] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26622] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26595] is closed
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26605] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26618] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26630] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26603] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26608] does not exists
+[2019-12-17 17:26:45 *16097.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26613] does not exists
+[2019-12-17 17:26:45 *16092.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26626] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26617] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26638] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1004): send 257 byte failed, because connection[fd=26611] is closed
+[2019-12-17 17:26:45 *16095.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26600] does not exists
+[2019-12-17 17:26:45 *16098.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26620] does not exists
+[2019-12-17 17:26:45 *16096.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26614] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26625] does not exists
+[2019-12-17 17:26:45 *16094.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26601] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26627] does not exists
+[2019-12-17 17:26:45 *16099.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=26635] does not exists
+[2019-12-17 17:28:18 $15591.0]	INFO	Server is reloading all workers now
+[2019-12-17 17:29:40 *16688.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17730] does not exists
+[2019-12-17 17:29:40 *16693.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17735] does not exists
+[2019-12-17 17:29:40 *16689.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17731] does not exists
+[2019-12-17 17:29:40 *16688.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17738] does not exists
+[2019-12-17 17:29:40 *16687.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17737] does not exists
+[2019-12-17 17:29:40 *16692.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17734] does not exists
+[2019-12-17 17:29:40 *16693.7]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17743] does not exists
+[2019-12-17 17:29:40 *16691.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17741] does not exists
+[2019-12-17 17:29:40 *16686.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17744] does not exists
+[2019-12-17 17:29:40 *16690.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17732] does not exists
+[2019-12-17 17:29:40 *16689.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17739] does not exists
+[2019-12-17 17:29:40 *16688.2]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17746] does not exists
+[2019-12-17 17:29:40 *16692.6]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17742] does not exists
+[2019-12-17 17:29:40 *16687.1]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17745] does not exists
+[2019-12-17 17:29:40 *16691.5]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17733] does not exists
+[2019-12-17 17:29:40 *16689.3]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17747] does not exists
+[2019-12-17 17:29:40 *16690.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17740] does not exists
+[2019-12-17 17:29:40 *16686.0]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17736] does not exists
+[2019-12-17 17:29:40 *16690.4]	NOTICE	swFactoryProcess_finish (ERRNO 1005): connection[fd=17748] does not exists
+[2019-12-17 17:31:09 *16690.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16691.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16686.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16689.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16692.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16693.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 *16687.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#4[pid=16690] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#7[pid=16693] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#6[pid=16692] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#5[pid=16691] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#3[pid=16689] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#1[pid=16687] abnormal exit, status=255, signal=0
+[2019-12-17 17:31:09 $16685.0]	WARNING	swManager_check_exit_status: worker#0[pid=16686] abnormal exit, status=255, signal=0
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:32:26 *16688.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php on line 619
+[2019-12-17 17:32:26 $16685.0]	WARNING	swManager_check_exit_status: worker#2[pid=16688] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 *17159.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 *17157.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 *17155.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 *17158.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 *17154.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 *17156.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#0[pid=17159] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#1[pid=17158] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#3[pid=17157] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#5[pid=17156] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#6[pid=17155] abnormal exit, status=255, signal=0
+[2019-12-17 17:33:19 $16685.0]	WARNING	swManager_check_exit_status: worker#7[pid=17154] abnormal exit, status=255, signal=0
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Broken pipe[32]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	WARNING	operator()(:308): sendto swoole_aio_pipe_write failed, Error: Bad file descriptor[9]
+[2019-12-17 17:34:14 *17386.2]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Allowed memory size of 134217728 bytes exhausted (tried to allocate 262144 bytes) in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php on line 619
+[2019-12-17 17:34:15 $16685.0]	WARNING	swManager_check_exit_status: worker#2[pid=17386] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 *19016.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19017.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19013.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19020.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19018.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19014.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 *19019.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#7[pid=19020] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#6[pid=19019] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#5[pid=19018] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#4[pid=19017] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#3[pid=19016] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#1[pid=19014] abnormal exit, status=255, signal=0
+[2019-12-17 17:43:11 $19012.0]	WARNING	swManager_check_exit_status: worker#0[pid=19013] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 *20886.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20892.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20889.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20890.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20893.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20887.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 *20891.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#0[pid=20886] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#4[pid=20890] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#7[pid=20893] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#6[pid=20892] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#5[pid=20891] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#3[pid=20889] abnormal exit, status=255, signal=0
+[2019-12-17 17:53:12 $20884.0]	WARNING	swManager_check_exit_status: worker#1[pid=20887] abnormal exit, status=255, signal=0
+[2019-12-17 18:16:29 $25367.0]	INFO	Server is reloading all workers now
+[2019-12-17 18:16:32 *25372.2]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25377.7]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25373.3]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25370.0]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25374.4]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25371.1]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25375.5]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:16:32 *25376.6]	WARNING	swWorker_reactor_is_empty (ERRNO 9012): worker exit timeout, forced to terminate
+[2019-12-17 18:19:40 *26100.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26099.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26097.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26094.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26095.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26098.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 *26101.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#6[pid=26100] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#5[pid=26099] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#3[pid=26097] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#7[pid=26101] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#4[pid=26098] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#1[pid=26095] abnormal exit, status=255, signal=0
+[2019-12-17 18:19:40 $26093.0]	WARNING	swManager_check_exit_status: worker#0[pid=26094] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 *27212.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 *27211.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 *27213.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 *27208.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 *27215.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#4[pid=27212] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 *27209.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#3[pid=27211] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 *27214.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#0[pid=27208] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#5[pid=27213] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#7[pid=27215] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#6[pid=27214] abnormal exit, status=255, signal=0
+[2019-12-17 18:25:27 $27207.0]	WARNING	swManager_check_exit_status: worker#1[pid=27209] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 *28349.7]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28343.1]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28348.6]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28347.5]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28345.3]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28342.0]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 *28346.4]	ERROR	php_swoole_server_rshutdown (ERRNO 503): Fatal error: Uncaught PhpAmqpLib\Exception\AMQPTimeoutException: The connection timed out after 3 sec while awaiting incoming data in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php:141
+Stack trace:
+#0 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(163): PhpAmqpLib\Wire\AMQPReader->wait()
+#1 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php(106): PhpAmqpLib\Wire\AMQPReader->rawread(7)
+#2 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(562): PhpAmqpLib\Wire\AMQPReader->read(7)
+#3 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Connection/AbstractConnection.php(619): PhpAmqpLib\Connection\AbstractConnection->wait_frame(3)
+#4 /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Channel/AbstractChannel.php(234): PhpAmqpLib\Connection in /Users/panxiang/Documents/mad_eastswoole/vendor/php-amqplib/php-amqplib/PhpAmqpLib/Wire/AMQPReader.php on line 141
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#7[pid=28349] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#6[pid=28348] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#5[pid=28347] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#4[pid=28346] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#3[pid=28345] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#1[pid=28343] abnormal exit, status=255, signal=0
+[2019-12-17 18:31:20 $28341.0]	WARNING	swManager_check_exit_status: worker#0[pid=28342] abnormal exit, status=255, signal=0
