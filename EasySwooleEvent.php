@@ -27,7 +27,6 @@ class EasySwooleEvent implements Event
 
     public static function initialize()
     {
-        // TODO: Implement initialize() method.
         date_default_timezone_set('Asia/Shanghai');
         Di::getInstance()->set(SysConst::HTTP_CONTROLLER_NAMESPACE,'App\\controller\\');//配置控制器命名空间
     }
