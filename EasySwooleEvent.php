@@ -35,7 +35,6 @@ class EasySwooleEvent implements Event
     {
         PoolManager::getInstance()->register(RedisPool::class);
 	    try {
-	    	//注册RabbitMQ连接池
 		    PoolManager::getInstance()->register( RabbitMQPool::class);
 	    } catch ( PoolException $e ) {
 	    }
