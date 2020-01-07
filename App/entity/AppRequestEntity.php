@@ -443,15 +443,7 @@ class AppRequestEntity extends BaseEntity implements IAppRequest
         $this->appid = $appid;
     }
 
-    /**
-     * @return mixed
-     */
-    public function getPkgname(): string
-    {
-        return $this->pkgname;
-    }
-
-    /**
+	/**
      * @param mixed $pkgname
      */
     public function setPkgname(?string $pkgname): void

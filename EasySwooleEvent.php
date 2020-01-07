@@ -33,6 +33,7 @@ class EasySwooleEvent implements Event
 
     public static function mainServerCreate(EventRegister $register)
     {
+    	//注册redis连接池
         PoolManager::getInstance()->register(RedisPool::class);
 	    try {
 		    PoolManager::getInstance()->register( RabbitMQPool::class);
